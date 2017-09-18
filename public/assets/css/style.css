@@ -1,0 +1,27 @@
+.header-intro{
+	padding-top: 50px;
+	padding-bottom: 0px;
+	  /*background-image: url("/assets/img/Dull.jpg");*/
+	  background-repeat: no-repeat;
+	  height: 310px;
+}
+.btn-intro{
+	width: 200px;
+}
+.card-img-top{
+	height:200px;
+}
+.card-intro{
+	padding-top: 20px;
+}
+.cardlr{
+	padding-top: 20px;
+}
+.filtercat{
+	width: 250px;
+}
+@media (min-width: 979px) {
+    body {
+        padding-top: 50px;
+    }
+}
